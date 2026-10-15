@@ -4,6 +4,8 @@
 
 本项目收录了一批**免费的编程电子书（PDF 格式）**，覆盖七门热门编程语言：**C++、Java、Kotlin、Python、Rust、Swift 和 TypeScript**。大多数语言同时提供**英文原版**和**中文版**，既可以用母语快速入门，又能对照原文理解术语。
 
+本合集由 [PerformAI.org（表现智能团队）](https://www.performai.org/)整理维护，是表现智能 [GitHub 开源项目](https://github.com/performai-org/)之一。
+
 所有书籍均来自官方文档、开源教程或社区翻译，整理为 PDF 便于在电脑、平板或电子阅读器上离线阅读。点击书名即可在 GitHub 上在线阅读，也可以在文件页面点击下载按钮保存到本地。
 
 ## 目录
@@ -180,6 +182,16 @@ TypeScript 官方手册（TypeScript 7.0 时代），涵盖常用类型、类型
 **之后还会添加新书吗？**
 会持续更新。欢迎 Star 或 Watch [本仓库](https://github.com/performai-org/tech-books) 获取更新通知。
 
+**这个项目由谁维护？**
+由 [PerformAI.org（表现智能团队）](https://www.performai.org/)维护。更多开源项目请访问[表现智能的 GitHub 主页](https://github.com/performai-org/)。
+
 ---
 
-*关键词：免费编程书籍、编程电子书 PDF 下载、C++ 教程 PDF、Java 教程 PDF、Java 面试、Kotlin 中文文档、Python 入门教程、Rust 程序设计语言 PDF、Swift 中文版、TypeScript 中文教程、free programming books.*
+## 关于 PerformAI.org · 表现智能
+
+- [www.performai.org](https://www.performai.org/)：表现智能官网，让 AI 赋能每一个人，让创造更简单。
+- [github.com/performai-org](https://github.com/performai-org/)：表现智能的 GitHub 开源项目主页。
+
+---
+
+*关键词：PerformAI、表现智能、performai-org、免费编程书籍、编程电子书 PDF 下载、C++ 教程 PDF、Java 教程 PDF、Java 面试、Kotlin 中文文档、Python 入门教程、Rust 程序设计语言 PDF、Swift 中文版、TypeScript 中文教程、free programming books.*

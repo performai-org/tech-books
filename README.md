@@ -6,6 +6,8 @@ A free collection of programming ebooks (PDF) for **C++, Java, Kotlin, Python, R
 
 免费编程电子书（PDF）合集，涵盖 **C++、Java、Kotlin、Python、Rust、Swift、TypeScript**，提供英文原版与中文版。
 
+Maintained by / 维护方：[PerformAI.org · 表现智能](https://www.performai.org/) · [GitHub: performai-org](https://github.com/performai-org/)
+
 ## 📚 Book List / 书单
 
 - 🇬🇧 **[Book List (English)](BOOKS.md)** — introductions and download links for every book
@@ -20,3 +22,8 @@ A free collection of programming ebooks (PDF) for **C++, Java, Kotlin, Python, R
 | Rust | The Rust Programming Language | Rust 程序设计语言 |
 | Swift | The Swift Programming Language 6.4 Beta | Swift 编程语言 6.2.3 |
 | TypeScript | TypeScript Handbook | TypeScript 教程 |
+
+## About / 关于
+
+- [www.performai.org](https://www.performai.org/): PerformAI.org · 表现智能官网 — 让 AI 赋能每一个人，让创造更简单。
+- [github.com/performai-org](https://github.com/performai-org/): PerformAI.org open-source projects / 表现智能 GitHub 开源项目。

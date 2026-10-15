@@ -4,6 +4,8 @@
 
 A curated collection of **free programming ebooks in PDF format**, covering seven popular languages: **C++, Java, Kotlin, Python, Rust, Swift and TypeScript**. Most languages come with both an **English edition** and a **Chinese (中文) edition**, so you can learn in your native language and cross-check terminology against the original.
 
+This collection is curated and maintained by [PerformAI.org](https://www.performai.org/) (表现智能) as one of its [open-source projects on GitHub](https://github.com/performai-org/).
+
 All books are official documentation, open-source tutorials or community translations, packaged as PDF for offline reading on desktop, tablet or e-reader. Click a title to read it on GitHub, or use the download button on the file page.
 
 ## Table of Contents
@@ -180,6 +182,16 @@ Yes. Download the PDF from GitHub and open it in any PDF reader, tablet or e-rea
 **Will more books be added?**
 Yes, the collection is updated regularly. Star or watch [this repository](https://github.com/performai-org/tech-books) to get notified.
 
+**Who maintains this project?**
+[PerformAI.org](https://www.performai.org/) (表现智能). Explore more of our open-source projects on the [PerformAI GitHub organization](https://github.com/performai-org/).
+
 ---
 
-*Keywords: free programming books, free PDF ebooks, C++ PDF, Java PDF, Kotlin PDF, Python PDF, Rust book PDF, Swift book PDF, TypeScript handbook PDF, learn programming, Chinese programming books, 编程电子书, 免费编程书籍.*
+## About PerformAI.org
+
+- [www.performai.org](https://www.performai.org/): the official website of PerformAI.org (表现智能), empowering everyone with AI and making creation simpler.
+- [github.com/performai-org](https://github.com/performai-org/): PerformAI.org's open-source projects on GitHub.
+
+---
+
+*Keywords: PerformAI, PerformAI.org, 表现智能, performai-org, free programming books, free PDF ebooks, C++ PDF, Java PDF, Kotlin PDF, Python PDF, Rust book PDF, Swift book PDF, TypeScript handbook PDF, learn programming, Chinese programming books, 编程电子书, 免费编程书籍.*
